@@ -1,6 +1,8 @@
 # Gemini batch question assistant
 
 🚀 这是一个专门为 Google Gemini 用户设计的自动化工具，旨在解决网页端无法原生批量提交问题的不便。通过在页面注入直观的控制面板，你可以轻松管理提问队列，实现无人值守的连续作业。
+<img width="811" height="428" alt="image" src="https://github.com/user-attachments/assets/c25c9e0b-6fba-4af9-b506-fa96a6b65179" />
+
 
 ### Core features
 
